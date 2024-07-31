@@ -5,6 +5,6 @@
 - 📫 I can be reached via LinkedIn https://www.linkedin.com/in/alexander-cole-c-e-t-78706943/
 
 <!---
-AlexanderCole-WSP/AlexanderCole-WSP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Alexander-Cole-CET/Alexander-Cole-CET is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
