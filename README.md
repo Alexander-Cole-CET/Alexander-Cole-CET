@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexanderCole-WSP
+- 👋 Hi, I’m @Alexander-Cole-CET
 - 👀 I’m interested in BIM, Civil Engineering, Software Engineering, and Autodesk Products
 - 🌱 I’m currently learning Visual Studio, C#, and always something related to the various .NET APIs I use daily
 - 💞️ I haven't done any open-source collaborations but certainly open to the idea.
